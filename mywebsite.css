@@ -1,0 +1,236 @@
+p{
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Barrio', cursive;
+}
+
+.text{
+  font-family: 'Amatic SC',cursive;
+  font-size: 48px;
+  color:white;
+}
+
+h4{
+  font-family: 'Amatic SC',cursive;
+  font-size: 40px;
+  color: #185a9d;
+}
+
+a {
+  text-decoration: none;
+}
+
+img{
+  width: 280px;
+  height: 280px;
+  border: 2.5px solid white;
+  margin-right:auto;
+}
+
+.icons {
+  display: inline-block;
+}
+
+#iconp {
+  height: 100px;
+  width: 100px;
+}
+
+.front {
+  background-image: url('images/giphy.gif');
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding-bottom: 250px;
+  padding-top: 200px;
+  margin-left: -8px;
+  text-align: center;
+  color: #3a7bd5;
+}
+
+.button1{
+  background-color: #3a7bd5;
+  border: 1px solid #3a7bd5;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  cursor: pointer;
+  padding: 15px 24px;
+  float: left;
+}
+
+.button2{
+background-color: #3a7bd5 ;
+border: 1px solid #3a7bd5;
+color: white;
+font-family: 'Raleway', sans-serif;
+cursor: pointer;
+padding: 15px 24px;
+float: left;
+}
+
+.button3{
+  background-color: #3a7bd5;
+  border: 1px solid #3a7bd5;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  padding: 15px 24px;
+  float: left;
+
+}
+
+.info{
+  background-color: white;
+  padding-bottom: 100px;
+  text-align: center;
+  color: #3d72b4;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 36px;
+}
+
+.menu{
+  background-color: #3a7bd5;
+  text-align: center;
+  width: 100%;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Verdana, fantasy;
+  cursor: pointer;
+  float: left;
+  padding-left: 10px;
+}
+
+p3{
+font-size: 40px;
+font-family: 'Barrio',cursive;
+padding-left: 200px;
+color: white;
+}
+
+#space {
+  margin-left: 100px;
+}
+
+.pad {
+  padding-top: 53px;
+}
+
+
+#textbox{
+  width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+}
+
+#button2 {
+  background-color: #3a7bd5;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#float{
+  float: right;
+  padding: 10px;
+}
+
+.tag{
+  color: white;
+  font-family: 'Barrio', cursive;
+  font-style: normal;
+  font-size: 80px;
+  padding: 25px;
+  margin: -20px;
+}
+
+span{
+  border: none;
+  padding-bottom: -20px;
+}
+
+.jumbo{
+  background-color: #22c1c3;
+}
+
+.jumbo1{
+  background-color: #16A085;
+}
+
+.jumbo2{
+  background-color: #3d72b4;
+}
+
+.jumbo3{
+  background-color: #283c86;
+}
+
+.jumbo4{
+background-color: #56CCF2;
+}
+
+.jumbo5{
+  background-color:#3a7bd5;
+}
+
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 25%;
+}
+
+.container{
+  padding: 2px 16px;
+}
+
+h5{
+  font-size: 20px ;
+  font-family: 'Fjalla One' ,sans-serif;
+  color: #F7740E;
+}
+
+p1{
+  font-size: 20px;
+  font-family: 'Raleway',sans-serif;
+}
+
+
+h6{
+  font-size: 20px;
+  font-family: 'Fjalla One' , sans-serif;
+  color: #66D4DE;
+}
+
+.container2{
+  padding: 16px 24px;
+}
+
+p2{
+  font-size: 20px;
+  font-family: 'Raleway' ,sans-serif;
+}
+
+.footer{
+  background-clip: padding-box;
+  background: #3d72b4;
+  border: none;
+  padding-bottom: 20px;
+}
+
+#textbox{
+  border-radius: 4px;
+  width: 100%;
+  height: 20px;
+}
+
+
+footer {
+  background-color: white;
+}
